@@ -5,4 +5,4 @@ An initial pipeline was built and tested on RUNX1 (ID MA0002.2) and compared to 
 
 Pipeline was then up-scaled and ran on 107 TFs with the following filters: 
 opts[["species"]] <- 10090; 
-opts[["collection"]] <- "CORE"  
+opts[["collection"]] <- "CORE".
